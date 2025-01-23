@@ -32,16 +32,19 @@ Follow the steps below to set up the project locally:
 ```bash
 git clone https://github.com/your-username/fastapi-todo-app.git
 cd fastapi
+```
 
 ### Step 2: Install Dependencies
 
 ```bash
 pip install fastapi pydantic uvicorn
+```
 
 ### Step 3: Run the Application
 
 ```bash
 uvicorn app:app --host 127.0.0.1 --port 5566 --reload
+```
 
 # API Endpoints
 
