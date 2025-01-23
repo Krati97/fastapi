@@ -57,6 +57,6 @@ uvicorn app:app --host 127.0.0.1 --port 5566 --reload
 | `DELETE`   | `/todos/{id}`    | Delete a todo by its `id`.                   |
 
 # Resources
-	•	FastAPI Documentation
-	•	Pydantic Documentation
-	•	Uvicorn Documentation
+  [FastAPI Documentation](https://fastapi.tiangolo.com/)
+  [Pydantic Documentation](https://docs.pydantic.dev/)
+  [Uvicorn Documentation](https://www.uvicorn.org/)
